@@ -23,7 +23,7 @@ Steps to follow:
 7. Now that the upstream points to you, you must make sure you use the keyword ‘origin’ when pushing. The command will be ‘git push origin <branch name>’
 8. Do a git status and commit anything that is currently untracked. Then make yourself a branch for the MVP.
 
-
+----
 **MVP**
 1. Now you have an MVP branch, spend time having a look through the repository and see what you have been given.
 2. Write failing tests around the placeholder methods created.
