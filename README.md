@@ -40,14 +40,14 @@ To run the tests, you can use the green play button in your Spec, or in terminal
 sbt test
 ```
 ----
-**Extension:**
+**Extension**
 1. Once all your code is pulled down, branch off main for the extension.
 2. Refactor the code with the corrected income tax bands, via: https://www.gov.uk/income-tax-rates
 3. Extend the task to calculate capital gains from shares. Information on implementation can be found here https://www.gov.uk/capital-gains-tax/rates and https://taxscouts.com/the-tax-basics/capital-gains-tax-rates/
 4. When you are happy with your code, tests are passing, create a PR and merge into main. In IntelliJ, checkout main, pull ‘origin main’.
 
 ---
-**Hard Extension:**
+**Hard Extension**
 1. Once all your code is pulled down, branch off main for the hard extension.
 2. Extend the task to calculate total income tax AND capital gains tax from shares. Create a new method that calls your existing methods to accomplish this.
 3. When you are happy with your code, tests are passing, create a PR and merge into main. In IntelliJ, checkout main, pull ‘origin main’.
